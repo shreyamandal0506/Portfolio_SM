@@ -465,7 +465,7 @@ span {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
     #menu-icon {
         display: block;
     }
@@ -526,6 +526,24 @@ span {
 
     .works-container {
         grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 991px) {
+    #menu-icon {
+        display: block;
+    }
+}
+
+@media (max-width: 768px) {
+    #menu-icon {
+        display: block;
+    }
+}
+
+@media (max-width: 345px) {
+    #menu-icon {
+        display: block;
     }
 }
 
