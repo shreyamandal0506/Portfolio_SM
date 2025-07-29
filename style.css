@@ -529,11 +529,11 @@ span {
     }
 }
 
-@media (max-width: 991px) {
+/* @media (max-width: 991px) {
     #menu-icon {
         display: block;
     }
-}
+} */
 
 @media (max-width: 768px) {
     #menu-icon {
@@ -541,11 +541,11 @@ span {
     }
 }
 
-@media (max-width: 345px) {
+/* @media (max-width: 345px) {
     #menu-icon {
         display: block;
     }
-}
+} */
 
 @media (max-width: 617px) {
     .works-container {
